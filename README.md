@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shravan Ramakunja</h1>
-<h3 align="center">A passionate frontend,LLM, ML developer. I also have an expertise in Graphic Designer ,UI-UX and and freelancer in t-shirt and graphic desing</h3>
+<h3 align="center">A passionate frontend,LLM, ML developer. I also have an expertise in Graphic Designer ,UI-UX and and freelancer in t-shirt and graphic design</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
