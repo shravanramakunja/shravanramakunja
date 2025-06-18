@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shravan Ramakunja</h1>
+<h1 align="center">Hey I'm Shravan Ramakunja</h1>
 <h3 align="center">A passionate frontend,LLM developer and starting out with DataScience. I also have an expertise in Graphic Designer ,UI-UX and and freelancer in t-shirt and graphic design</h3>
 
 <h3 align="left">Connect with me:</h3>
