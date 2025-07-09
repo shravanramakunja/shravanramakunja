@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Shravan Ramakunja</h1>
-<h3 align="center">Data Science l Exploring DevOps and ML l DSA and Automation Scripts l Ui-Ux Designer l </h3>
+<h3 align="center">Data Science l Exploring DevOps and ML l DSA and Automation Scripts l Ui-Ux and Gprahic Designer l </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
