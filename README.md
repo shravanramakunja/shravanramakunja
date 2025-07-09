@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Shravan Ramakunja</h1>
-<h3 align="center">I'm a passionate Frontend and LLM Developer, currently expanding my skills into Data Science. I also bring expertise in Graphic Design and UI/UX, with freelance experience in t-shirt and custom graphic design.</h3>
+<h3 align="center">Data Science l Exploring Devops and ML l DSA and Automation Scripts l Ui-Ux Designer l </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
