@@ -45,10 +45,9 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
-
-<h3 align="left">⚙ Others & Utilities</h3>
+<h3 align="left"> Others & Utilities</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_White.svg" alt="bash" width="40" height="40"/>
 </p>
 
 <!-- Holopin badge -->
