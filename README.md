@@ -14,7 +14,8 @@
 </p>
 
 <!-- Dev Gear Title -->
-<h2 align="center"> My Dev Gear</h2>
+<h2 align="center"><strong>M Y &nbsp; D E V &nbsp; G E A R</strong></h2>
+
 
 <!-- Categorized Tech Stack -->
 
