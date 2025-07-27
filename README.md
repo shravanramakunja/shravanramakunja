@@ -53,7 +53,7 @@
 
 <h3 align="center"> Others & Utilities</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_White.svg" alt="bash" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo" alt="bash" width="40" height="40"/>
 </p>
 
 <!-- Holopin badge -->
