@@ -53,6 +53,14 @@
   </a> 
 </p>
 
+<!-- Holopin badge -->
+<p align="left">
+  <a href="https://holopin.io/@shravanramakunja" target="_blank">
+    <img src="https://holopin.me/shravanramakunja" alt="@shravanramakunja's Holopin board" width="100%" />
+  </a>
+</p>
+
+<!-- GitHub Top Languages -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanramakunja&show_icons=true&locale=en&layout=compact" alt="shravanramakunja" />
 </p>
