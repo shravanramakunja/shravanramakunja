@@ -13,51 +13,55 @@
   </a>
 </p>
 
+<!-- Dev Gear Title -->
+<h2 align="center"> My Dev Gear</h2>
+
 <!-- Categorized Tech Stack -->
 
-<h3 align="left"> AI/ML & Data Science</h3>
-<p align="left">
+<h3 align="center"> AI/ML & Data Science</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-<h3 align="left">  Web Development</h3>
-<p align="left">
+<h3 align="center"> Full Stack Web Development</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
 </p>
 
-<h3 align="left"> Cloud, DevOps & Deployment</h3>
-<p align="left">
+<h3 align="center"> Cloud, DevOps & Deployment</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="left"> Databases</h3>
-<p align="left">
+<h3 align="center"> Databases</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
-<h3 align="left"> UI/UX & Styling</h3>
-<p align="left">
+<h3 align="center"> UI/UX & Styling</h3>
+<p align="center">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
-<h3 align="left"> Others & Utilities</h3>
-<p align="left">
+
+<h3 align="center"> Others & Utilities</h3>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_White.svg" alt="bash" width="40" height="40"/>
 </p>
 
 <!-- Holopin badge -->
-<p align="left">
+<p align="center">
   <a href="https://holopin.io/@shravanramakunja" target="_blank">
     <img src="https://holopin.me/shravanramakunja" alt="@shravanramakunja's Holopin board" width="100%" />
   </a>
 </p>
 
 <!-- GitHub Top Languages -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanramakunja&show_icons=true&locale=en&layout=compact" alt="shravanramakunja" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanramakunja&show_icons=true&locale=en&layout=compact" alt="shravanramakunja" />
 </p>
