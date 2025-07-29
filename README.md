@@ -58,11 +58,11 @@
 </p>
 
 <!-- Holopin badge -->
+<h3 align="center"> Others & Utilities</h3>
 <p align="center">
-  <a href="https://holopin.io/@shravanramakunja" target="_blank">
-    <img src="https://holopin.me/shravanramakunja" alt="@shravanramakunja's Holopin board" width="100%" />
-  </a>
+  <img src="https://github.com/shravanramakunja/shravanramakunja/blob/main/gnu_bash-official.svg?raw=true" alt="bash" width="40" height="40"/>
 </p>
+
 
 <!-- GitHub Top Languages -->
 <p align="center">
