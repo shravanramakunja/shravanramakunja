@@ -58,14 +58,11 @@
 <h3 align="center"> Others & Utilities</h3>
 <p align="center">
   <img src="https://github.com/shravanramakunja/shravanramakunja/blob/main/gnu_bash-official.svg?raw=true" alt="bash" width="70" height="70"/>
-</p>
-<p align="center">
   <img src="https://github.com/shravanramakunja/shravanramakunja/raw/main/jupyter-seeklogo.png" alt="jupyter" width="40" height="40"/>
 </p>
-
-
 
 <!-- GitHub Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanramakunja&show_icons=true&locale=en&layout=compact" alt="shravanramakunja" />
 </p>
+
