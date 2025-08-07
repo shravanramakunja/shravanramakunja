@@ -67,3 +67,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shravanramakunja&show_icons=true&locale=en&layout=compact" alt="shravanramakunja" />
 </p>
 
+<!-- AWS Badge with Link -->
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/413f8d44-ca53-4e46-8da1-788135f84faa" target="_blank">
+    <img src="https://github.com/shravanramakunja/shravanramakunja/blob/main/AWS.png?raw=true" alt="AWS Certified Badge" width="120" />
+  </a>
+</p>
