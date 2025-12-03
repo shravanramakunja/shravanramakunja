@@ -1,6 +1,6 @@
 <h1 align="center"><strong>H E Y , &nbsp; I ' M &nbsp; S H R A V A N &nbsp; R A M A K U N J A</strong></h1>
 
-<h3 align="center">Data Science and LLMs l Exploring DevOps and ML l DSA and Automation Scripts l Graphic Designer l</h3>
+<h3 align="center">Exploring MLops and Backend | </h3>
 
 <!-- GIF section -->
 <p align="center">
