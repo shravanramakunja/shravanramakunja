@@ -1,7 +1,7 @@
 <h3>Hey, I'm Shravan Ramakunja</h3>
 
 <p>
-Computer Science student  with interest in
+Computer Science student  (MVJ ENGG COLLEGE-2027) with interest in
 <b>building Full stack AI Applications</b>
 </p>
 
