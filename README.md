@@ -79,8 +79,13 @@ Computer Science student  (MVJ ENGG COLLEGE-2027) with interest in
 </ul>
 <hr/>
 
-<h3>Achievements</h3>
+<hr>
+<h3>Experience</h3>
+<b>President</b><h1>NIC MVJCE</h1>
+</hr>
 
+<h3>Achievements</h3>
+<
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/413f8d44-ca53-4e46-8da1-788135f84faa" target="_blank">
