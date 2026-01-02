@@ -81,7 +81,7 @@ Computer Science student  (MVJ ENGG COLLEGE-2027) with interest in
 
 <h3>Experience</h3>
 <b>President-NIC MVJCE(25-26)</b>
-</hr>
+<hr/>
 
 <h3>Achievements</h3>
 
