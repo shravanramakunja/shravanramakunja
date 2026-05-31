@@ -16,6 +16,8 @@
 
 - 🔄 [Flow](https://github.com/shravanramakunja/Flow) - Intent-driven browser extension for managing tabs and boosting productivity  (Open Source)
 
+-  🤖 [Flow](https://github.com/shravanramakunja/ZenAI) - Document-grounded healthcare assistant powered by Gemini 2.0 Flash and Retrieval-Augmented Generation (RAG).
+  
 
 <h3> Working On</h3>
 
